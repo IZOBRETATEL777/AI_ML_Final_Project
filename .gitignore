@@ -107,7 +107,9 @@ ENV/
 data/
 input/
 saved/
-datasets/
+datasets/*
+!datasets/dataset_retrieval.py
+!datasets/image_cropper.py
 checkpoints/
 datasets/demo_dataset
 template/
