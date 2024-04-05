@@ -1,6 +1,10 @@
 # AI & Machine Learning Fundamentals
 The final project for the AI & Machine Learning Fundamentals is a simple image classifier using [Glasses Classification Dataset](https://www.kaggle.com/datasets/ashfakyeafi/glasses-classification-dataset) from Kaggle to classify images of people wearing glasses or not.
 
+
+Report paper link: http://dx.doi.org/10.13140/RG.2.2.27647.21926
+
+
 Project is using PyTocrh and TorchVision to create a simple Convolutional Neural Network (CNN) to classify images. TensorBoard is used to visualize the training process.
 
 Project based on [Ai_ml_template](https://github.com/m1rakram/Ai_ml_template) by Mirakram Aghalarov aka [m1rakram](https://github.com/m1rakram).
