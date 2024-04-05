@@ -110,6 +110,7 @@ saved/
 datasets/*
 !datasets/dataset_retrieval.py
 !datasets/image_cropper.py
+!datasets/real_images
 checkpoints/
 datasets/demo_dataset
 template/
