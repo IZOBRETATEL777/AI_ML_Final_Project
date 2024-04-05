@@ -74,3 +74,18 @@ To visualize the training process, run the following command:
 ```
 
 Then, open the browser and go to `http://localhost:6006/` to see the training process.
+
+
+## Sample 
+
+![Sample](docs/sample.png)
+Just run:
+```sh
+    python3 glasses_detector.py
+```
+
+after training the model. Also, you can configure names of pictures in the `glasses_detector.py` file:
+    
+    ```python
+        image_path = "datasets/real_images/test_image_1.jpg"
+    ```

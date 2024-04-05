@@ -37,7 +37,7 @@ def predict(image_path, model, device):
 def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model = load_model("checkpoints/saved_model.pth", device)
-    image_path = "datasets/real_images/test_image_2.jpg"
+    image_path = "datasets/real_images/test_image_1.jpg"
 
     prediction = predict(image_path, model, device)
     if (prediction == 1):
