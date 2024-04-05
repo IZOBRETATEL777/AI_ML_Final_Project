@@ -86,6 +86,6 @@ Just run:
 
 after training the model. Also, you can configure names of pictures in the `glasses_detector.py` file:
     
-    ```python
-        image_path = "datasets/real_images/test_image_1.jpg"
-    ```
+```python
+    image_path = "datasets/real_images/test_image_1.jpg"
+ ```
